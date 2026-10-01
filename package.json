@@ -4,8 +4,8 @@
   "description": "- Disha Padsala - George Brown College",
   "main": "index.js",
   "scripts": {
-  "test": "echo \"Warning: No tests created yet.\""
-},
+    "test": "echo \"Warning: No tests created yet.\""
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/D81979/COMP3104.git"
